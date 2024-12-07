@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+psycopg2-binary==2.9.3
+nltk==3.6.5
+urllib3==1.26.7

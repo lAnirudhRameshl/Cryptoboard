@@ -1,0 +1,19 @@
+{
+	"cryptocurrencies": [
+		{
+			"name": "Bitcoin",
+			"symbol": "BTC",
+			"id": 1
+		},
+		{
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"id": 2
+		},
+		{
+			"name": "Litecoin",
+			"symbol": "LTC",
+			"id": 3
+		}
+	]
+}

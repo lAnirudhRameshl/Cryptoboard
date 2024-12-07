@@ -1,0 +1,15 @@
+[
+	{
+		"name": "NYTimes",
+		"url": "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=lz8gDn2ose38Qzn2YeHxyi4ORSjSXYyv",
+		"secret": "YSXLO8F4cDals341"
+	},
+	{
+		"name": "TheGuardian",
+		"url": "https://content.guardianapis.com/search?api-key=b619c2d2-f062-4925-80e1-617021c1a620"
+	},
+	{
+		"name": "Reddit",
+		"url": "https://www.reddit.com/search.json?sort=hot"
+	}
+]
